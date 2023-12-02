@@ -11,15 +11,17 @@ https://www.eventbrite.com/e/net-conf-2023-sabados-tech-tickets-765200765087
 
 ### Estrategias para desarrolladores:
 
- Desde bloqueos hasta Github Copilot. ¿Alguna vez te has sentido atrapado entre bloqueos y deadlocks en Azure SQL Database? 
- 
+¿Alguna vez te has sentido atrapado entre bloqueos y deadlocks en Azure SQL Database? 
+
+ Desde bloqueos hasta Github Copilot. 
+
  Exploraremos los desafíos más frecuentes que los desarrolladores enfrentan al interactuar con Azure SQL Databases. Desde tácticas para abordar estos problemas comunes, hasta ingresar en la optimización de rendimiento, así como también en los patrones habituales de administración de bases de datos. 
  
  Exploramos sugerencias que mejorarán el desarrollo en el escritorio, gracias a las innovaciones de Azure SQL. 
  
  Descubriremos cómo Github Copilot puede ser el aliado perfecto para escritura de consultas SQL.
 
-## Presentacion
+## Presentación
 https://www.youtube.com/watch?v=E7D47bTb_3I
 
 
@@ -27,5 +29,5 @@ https://www.youtube.com/watch?v=E7D47bTb_3I
 Este repositorio contiene los ejemplos mostrados en la presentación.
 
 
-## Comunidad Sabados Tech en YouTube
+## Comunidad Sábados Tech en YouTube
 https://www.youtube.com/channel/UCw89YeTGdK74ZZ97_xcI2FA
